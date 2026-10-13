@@ -17,6 +17,11 @@
 </p>
 
 ---
+## 👤 Piscine Profile
+
+<p align="center">
+  <img src="./assets/pool-profile.png" alt="Adam Moujtahid 1337 Pool Profile" width="100%" />
+</p>
 
 ## 📖 About
 
