@@ -1,247 +1,184 @@
-# 🏊 1337 Piscine — 42 Network
+<p align="center">
+  <img src="./assets/1337-piscine-banner.svg" alt="1337 Piscine — 42 Network" width="100%" />
+</p>
 
-This repository contains the projects and exercises I completed during my **Piscine at 1337 (42 Network)**.
+<h1 align="center">🏊 1337 Piscine — 42 Network</h1>
 
-The Piscine is an intensive programming experience mainly focused on learning **C programming**, **Shell scripting**, **Git**, Unix fundamentals, algorithms, and problem-solving.
+<p align="center">
+  <strong>My intensive 1337 / 42 Piscine journey through C, Shell, Unix, Git, algorithms, and problem solving.</strong>
+</p>
 
----
-
-## 📚 Content
-
-### 🐚 Shell
-
-* Shell00
-* Shell01
-
-Main concepts covered:
-
-* Unix/Linux commands
-* File permissions
-* File manipulation
-* Shell scripting
-* `find`
-* `grep`
-* `sed`
-* `awk`
-* Git
-* SSH
-* Environment variables
+<p align="center">
+  <a href="https://github.com/admoujta/1337-Pool"><img src="https://img.shields.io/badge/Repo-1337--Pool-181717?style=for-the-badge&logo=github" alt="Repository" /></a>
+  <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/School-1337%20%2F%2042-00BABC?style=for-the-badge" alt="1337 / 42" />
+</p>
 
 ---
 
-## 💻 C Programming
+## ✨ About This Repository
 
-### C00
+This repository documents the work I completed during my **1337 Piscine**, part of the **42 Network** learning model.
 
-Introduction to C programming.
+The Piscine is an intensive, practice-driven programming experience focused on building strong fundamentals through daily exercises, debugging, peer learning, evaluations, and independent problem solving.
 
-* `write`
-* Loops
-* Conditions
-* Character output
-* Number manipulation
-
-### C01
-
-Introduction to pointers.
-
-* Pointers
-* Memory addresses
-* Swap
-* Arrays
-* Value manipulation using pointers
-
-### C02
-
-Introduction to string manipulation.
-
-* `ft_strcpy`
-* `ft_strncpy`
-* Character checks
-* String manipulation
-
-### C03
-
-Reimplementation of several standard C string functions.
-
-* `ft_strcmp`
-* `ft_strncmp`
-* `ft_strcat`
-* `ft_strncat`
-* `ft_strstr`
-* `ft_strlcat`
-
-### C04
-
-Number conversion and manipulation.
-
-* `ft_strlen`
-* `ft_putstr`
-* `ft_putnbr`
-* `ft_atoi`
-* `ft_putnbr_base`
-* `ft_atoi_base`
-
-### C05
-
-Introduction to recursion and mathematical algorithms.
-
-* Factorial
-* Power
-* Fibonacci
-* Square root
-* Prime numbers
-
-### C06
-
-Program argument manipulation.
-
-* `argc`
-* `argv`
-* Displaying arguments
-* Sorting arguments
-
-### C07
-
-Introduction to dynamic memory allocation.
-
-* `malloc`
-* `ft_strdup`
-* `ft_range`
-* `ft_ultimate_range`
-* `ft_strjoin`
-* Base conversion
-* `ft_split`
-
-### C08
-
-Introduction to structures and header files.
-
-* Header files `.h`
-* Structures
-* `typedef`
-* Arrays of structures
-
-### C09
-
-Libraries and Makefiles.
-
-* `libft.a`
-* `ar`
-* `ranlib`
-* Makefile
-* Compilation
-* `ft_split`
-
-### C11
-
-Introduction to function pointers.
-
-* `ft_foreach`
-* `ft_map`
-* `ft_any`
-* `ft_count_if`
-* `ft_is_sort`
-* Do-Op
-* String sorting
-* Custom comparison functions
+> **Core focus:** understanding how programs work, writing clean C code, mastering the Unix environment, and developing strong algorithmic thinking.
 
 ---
 
-## 🧠 Skills Developed
+## 📌 Piscine Snapshot
 
-During the Piscine, I developed and practiced skills in:
-
-* C Programming
-* Algorithms
-* Problem Solving
-* Memory Management
-* Pointers
-* Dynamic Memory Allocation
-* Recursion
-* String Manipulation
-* Shell Scripting
-* Unix/Linux
-* Git & GitHub
-* Compilation
-* Makefiles
-* Debugging
-* Code Style Standards
+| Item | Details |
+|---|---|
+| 🏫 School | 1337 — 42 Network |
+| 👨‍💻 Student | Adam Moujtahid |
+| 🧾 GitHub | [`@admoujta`](https://github.com/admoujta) |
+| 🎓 Cursus | C Piscine |
+| 🏷️ Grade | Pisciner |
+| 📅 Session | 2026 |
+| 🧠 Main focus | C, Shell, Unix, Git, algorithms, problem solving |
 
 ---
 
-## 🛠️ Technologies
-
-![C](https://img.shields.io/badge/C-Programming-blue?logo=c)
-
-![Shell](https://img.shields.io/badge/Shell-Bash-black?logo=gnu-bash)
-
-![Linux](https://img.shields.io/badge/Linux-Unix-yellow?logo=linux)
-
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
-
----
-
-## 📂 Repository Structure
+## 🗂️ Repository Roadmap
 
 ```text
-1337-Piscine/
+1337-Pool/
 │
-├── Shell00/
-├── Shell01/
+├── shell00/   → Unix basics, permissions, files, Git
+├── shell01/   → Shell scripting and command-line practice
 │
-├── C00/
-├── C01/
-├── C02/
-├── C03/
-├── C04/
-├── C05/
-├── C06/
-├── C07/
-├── C08/
-├── C09/
-├── C11/
+├── C00/       → First C programs, loops, conditions, output
+├── C01/       → Pointers, arrays, memory addresses
+├── C02/       → Strings and character validation
+├── C03/       → String comparison, concatenation, search
+├── C04/       → atoi, bases, strings, integer output
+├── C05/       → Recursion, Fibonacci, sqrt, prime numbers
+├── C06/       → argc, argv, argument sorting
+├── C07/       → malloc, strdup, split, ranges, joins
+├── C08/       → Headers, structures, typedef
+├── C09/       → Libraries, Makefile, compilation
+├── C11/       → Function pointers and higher-order functions
+│
+├── assets/
+│   └── 1337-piscine-banner.svg
 │
 └── README.md
 ```
 
 ---
 
-## ⚙️ Compilation
+## 🐚 Shell Modules
 
-Most C exercises can be compiled using:
+### Shell00
+
+The first step into the Unix environment.
+
+**Main topics:**
+
+- Unix/Linux commands
+- File and directory manipulation
+- Permissions
+- `find`
+- Git basics
+- SSH basics
+- Environment awareness
+
+### Shell01
+
+A deeper introduction to shell tools and command composition.
+
+**Main topics:**
+
+- Shell scripting
+- `grep`
+- `sed`
+- `awk`
+- Pipes and redirections
+- Environment variables
+- Command-line problem solving
+
+---
+
+## 💻 C Modules
+
+| Module | Focus | Key concepts |
+|---|---|---|
+| `C00` | C fundamentals | `write`, loops, conditions, character and number output |
+| `C01` | Pointers | addresses, swap, arrays, pointer manipulation |
+| `C02` | Strings | copy functions, validation, string manipulation |
+| `C03` | String algorithms | compare, concatenate, search, `ft_strlcat` |
+| `C04` | Conversion | `ft_atoi`, bases, `ft_putnbr`, `ft_putstr` |
+| `C05` | Recursion & maths | factorial, power, Fibonacci, sqrt, primes |
+| `C06` | Program arguments | `argc`, `argv`, sorting arguments |
+| `C07` | Dynamic allocation | `malloc`, `ft_strdup`, ranges, join, split |
+| `C08` | C structures | headers, `struct`, `typedef`, arrays of structures |
+| `C09` | Libraries | `libft.a`, `ar`, `ranlib`, Makefile |
+| `C11` | Function pointers | `ft_foreach`, `ft_map`, `ft_any`, sorting callbacks |
+
+---
+
+## 🧠 Skills Developed
+
+The Piscine helped me build and reinforce:
+
+- **C programming fundamentals**
+- **Algorithmic thinking**
+- **Problem solving under constraints**
+- **Pointers and memory management**
+- **Dynamic memory allocation**
+- **Recursion**
+- **String manipulation**
+- **Function pointers**
+- **Unix / Linux command line**
+- **Shell scripting**
+- **Git and version control**
+- **Compilation and Makefiles**
+- **Debugging discipline**
+- **Code readability and style rules**
+- **Independent learning and peer evaluation**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,vscode" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <code>C</code> • <code>Bash</code> • <code>Unix/Linux</code> • <code>Git</code> • <code>GitHub</code> • <code>Make</code>
+</p>
+
+---
+
+## ⚙️ Compile & Run
+
+Most C exercises can be compiled with:
 
 ```bash
 cc -Wall -Wextra -Werror file.c
 ```
 
-Then executed with:
+Run the generated executable:
 
 ```bash
 ./a.out
 ```
 
-For projects containing a `Makefile`:
+For projects that contain a `Makefile`:
 
 ```bash
 make
 ```
 
-Clean object files:
+Useful Makefile commands:
 
 ```bash
 make clean
-```
-
-Clean everything:
-
-```bash
 make fclean
-```
-
-Recompile the project:
-
-```bash
 make re
 ```
 
@@ -249,38 +186,79 @@ make re
 
 ## 🧪 Norminette
 
-The projects follow the coding style rules used at **42 / 1337**.
+The code follows the style constraints used at **42 / 1337**.
 
-To check the code:
+To check a file or directory:
 
 ```bash
 norminette
 ```
 
+A valid solution is not only expected to work — it should also respect the required coding style and project constraints.
+
+---
+
+## 🔍 What This Piscine Taught Me
+
+The most valuable part of the Piscine was not memorizing functions. It was learning how to approach a problem systematically:
+
+```text
+Read the subject
+      ↓
+Understand the constraints
+      ↓
+Break the problem into smaller steps
+      ↓
+Implement
+      ↓
+Compile with strict flags
+      ↓
+Test edge cases
+      ↓
+Debug
+      ↓
+Improve
+```
+
+That workflow continues to shape the way I approach larger software projects today.
+
 ---
 
 ## 🎯 Purpose
 
-The purpose of this repository is to document my progress throughout the **1337 Piscine** and keep a record of the different programming concepts I learned during this intensive experience.
+I keep this repository as a record of my progress during the **1337 Piscine** and as a reference for the core concepts I practiced throughout the experience.
 
-Each exercise represents another step in my understanding of C programming, low-level concepts, algorithms, memory management, and problem-solving.
+It represents the transition from writing simple programs to thinking more carefully about:
 
-The Piscine taught me not only how to write code, but also how to think logically, debug problems, learn independently, and keep improving through practice.
-
----
-
-## ⚠️ Disclaimer
-
-This repository is published for **educational and personal purposes**.
-
-If you are currently participating in a 42 / 1337 Piscine, I strongly recommend understanding and solving the exercises yourself instead of directly copying solutions.
-
-> **Learn. Understand. Code. Debug. Repeat. 🚀**
+- how memory is used;
+- how strings and arrays work internally;
+- how functions communicate through pointers;
+- how algorithms behave on edge cases;
+- how Unix tools can simplify development;
+- and how disciplined debugging leads to better code.
 
 ---
 
-## 🏫 1337 — 42 Network
+## ⚠️ Academic Integrity
 
-**Piscine 2026**
+This repository is shared for **educational and personal portfolio purposes**.
 
-C • Shell • Unix • Git • Algorithms • Problem Solving
+If you are currently taking part in a **42 / 1337 Piscine**, use repositories like this only as inspiration after making a serious attempt yourself. The real value of the Piscine comes from struggling with the problem, debugging it, and understanding why the final solution works.
+
+<p align="center">
+  <strong>Learn • Understand • Code • Debug • Repeat</strong>
+</p>
+
+---
+
+## 👨‍💻 Author
+
+<p align="center">
+  <strong>Adam Moujtahid</strong><br/>
+  1337 / 42 Network Piscine<br/><br/>
+  <a href="https://github.com/admoujta">GitHub</a>
+</p>
+
+<p align="center">
+  ⭐ If this repository helps you understand my journey, feel free to explore the exercises and projects.
+</p>
