@@ -79,7 +79,8 @@ The Piscine is an intensive, practice-driven programming experience focused on b
 ├── C11/       → Function pointers and higher-order functions
 │
 ├── assets/
-│   └── 1337-piscine-banner.svg
+│   ├── 1337-piscine-banner.svg
+│   └── adam-moujtahid.jpg
 │
 └── README.md
 ```
@@ -270,8 +271,14 @@ If you are currently taking part in a **42 / 1337 Piscine**, use repositories li
 ## 👨‍💻 Author
 
 <p align="center">
-  <strong>Adam Moujtahid</strong><br/>
-  1337 / 42 Network Piscine<br/><br/>
+  <img src="./assets/adam-moujtahid.jpg" alt="Adam Moujtahid" width="600" />
+</p>
+
+<h3 align="center">Adam Moujtahid</h3>
+
+<p align="center">
+  <strong>1337 / 42 Network — C Piscine</strong><br/>
+  <code>admoujta</code><br/><br/>
   <a href="https://github.com/admoujta">GitHub</a>
 </p>
 
