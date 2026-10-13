@@ -1,46 +1,58 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#263b51"/>
-      <stop offset="0.45" stop-color="#1f4a48"/>
-      <stop offset="1" stop-color="#263246"/>
+      <stop offset="0" stop-color="#263a50"/>
+      <stop offset="0.48" stop-color="#21504d"/>
+      <stop offset="1" stop-color="#24344a"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#181e27" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#202630" stop-opacity="0.90"/>
     </linearGradient>
     <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#13c5cf"/>
-      <stop offset="1" stop-color="#00b7c3"/>
+      <stop offset="0" stop-color="#18c9d5"/>
+      <stop offset="1" stop-color="#10b9c5"/>
     </linearGradient>
-    <clipPath id="avatarClip">
-      <circle cx="120" cy="220" r="78"/>
-    </clipPath>
+    <clipPath id="avatar"><circle cx="125" cy="225" r="86"/></clipPath>
   </defs>
 
-  <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
-  <rect x="245" y="42" width="905" height="112" rx="14" fill="#171b23" fill-opacity="0.82"/>
-  <rect x="245" y="174" width="905" height="136" rx="14" fill="#171b23" fill-opacity="0.82"/>
-  <rect x="245" y="332" width="905" height="54" rx="12" fill="#171b23" fill-opacity="0.82"/>
+  <rect width="1200" height="430" rx="22" fill="url(#bg)"/>
+  <polygon points="0,0 300,0 205,130 0,95" fill="#314264" opacity=".38"/>
+  <polygon points="210,0 580,0 495,130 330,105" fill="#2c3d65" opacity=".42"/>
+  <polygon points="500,0 880,0 790,105 610,130" fill="#28605a" opacity=".28"/>
+  <polygon points="840,0 1200,0 1200,125 980,90" fill="#2c3c5f" opacity=".38"/>
+  <polygon points="0,120 300,190 170,370 0,340" fill="#21475f" opacity=".34"/>
+  <polygon points="200,130 630,215 540,410 320,345" fill="#294a59" opacity=".24"/>
+  <polygon points="560,135 960,150 870,415 650,390" fill="#223b42" opacity=".30"/>
+  <polygon points="850,130 1200,175 1200,430 960,365" fill="#304048" opacity=".24"/>
 
-  <text x="245" y="30" fill="#ffffff" font-size="29" font-family="Arial,Helvetica,sans-serif" font-weight="700">Adam Moujtahid</text>
-  <text x="470" y="30" fill="#d9dde5" font-size="22" font-family="Arial,Helvetica,sans-serif">admoujta</text>
+  <text x="250" y="38" fill="#ffffff" font-size="31" font-family="Arial,Helvetica,sans-serif" font-weight="700">Adam Moujtahid</text>
+  <text x="445" y="38" fill="#edf1f5" font-size="22" font-family="Arial,Helvetica,sans-serif">admoujta</text>
 
-  <circle cx="120" cy="220" r="82" fill="#e9ecef"/>
-  <image href="https://avatars.githubusercontent.com/u/251885828?v=4" x="42" y="142" width="156" height="156" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+  <circle cx="125" cy="225" r="90" fill="#edf1f4"/>
+  <image href="data:image/jpeg;base64,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" x="39" y="139" width="172" height="172" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar)"/>
+  <circle cx="125" cy="225" r="88" fill="none" stroke="#ffffff" stroke-width="4"/>
 
-  <text x="360" y="78" text-anchor="middle" fill="#12c3cf" font-size="24" font-family="Arial,Helvetica,sans-serif">Evaluation Points</text>
-  <text x="360" y="122" text-anchor="middle" fill="#ffffff" font-size="27" font-family="Arial,Helvetica,sans-serif" font-weight="700">5</text>
+  <rect x="250" y="64" width="910" height="98" rx="14" fill="url(#panel)"/>
+  <rect x="250" y="182" width="910" height="150" rx="14" fill="url(#panel)"/>
+  <rect x="250" y="350" width="910" height="48" rx="12" fill="url(#panel)"/>
 
-  <text x="575" y="78" text-anchor="middle" fill="#12c3cf" font-size="24" font-family="Arial,Helvetica,sans-serif">Cursus</text>
-  <text x="575" y="122" text-anchor="middle" fill="#ffffff" font-size="27" font-family="Arial,Helvetica,sans-serif" font-weight="700">C Piscine</text>
+  <text x="385" y="105" text-anchor="middle" fill="#15c8d4" font-size="21" font-family="Arial,Helvetica,sans-serif">Evaluation Points</text>
+  <text x="385" y="142" text-anchor="middle" fill="#ffffff" font-size="27" font-family="Arial,Helvetica,sans-serif" font-weight="700">5</text>
 
-  <text x="790" y="78" text-anchor="middle" fill="#12c3cf" font-size="24" font-family="Arial,Helvetica,sans-serif">Grade</text>
-  <text x="790" y="122" text-anchor="middle" fill="#ffffff" font-size="27" font-family="Arial,Helvetica,sans-serif" font-weight="700">Pisciner</text>
+  <text x="615" y="105" text-anchor="middle" fill="#15c8d4" font-size="21" font-family="Arial,Helvetica,sans-serif">Cursus</text>
+  <text x="615" y="142" text-anchor="middle" fill="#ffffff" font-size="27" font-family="Arial,Helvetica,sans-serif" font-weight="700">C Piscine</text>
 
-  <text x="1005" y="78" text-anchor="middle" fill="#12c3cf" font-size="24" font-family="Arial,Helvetica,sans-serif">Level</text>
-  <text x="1005" y="122" text-anchor="middle" fill="#ffffff" font-size="27" font-family="Arial,Helvetica,sans-serif" font-weight="700">9 — 36%</text>
+  <text x="835" y="105" text-anchor="middle" fill="#15c8d4" font-size="21" font-family="Arial,Helvetica,sans-serif">Grade</text>
+  <text x="835" y="142" text-anchor="middle" fill="#ffffff" font-size="27" font-family="Arial,Helvetica,sans-serif" font-weight="700">Pisciner</text>
 
-  <text x="697" y="238" text-anchor="middle" fill="#ffffff" font-size="36" font-family="Arial,Helvetica,sans-serif" font-weight="600">C Piscine</text>
-  <text x="697" y="275" text-anchor="middle" fill="#aeb7c4" font-size="18" font-family="Arial,Helvetica,sans-serif">1337 • 42 Network</text>
+  <text x="1045" y="105" text-anchor="middle" fill="#15c8d4" font-size="21" font-family="Arial,Helvetica,sans-serif">Level</text>
+  <text x="1045" y="142" text-anchor="middle" fill="#ffffff" font-size="27" font-family="Arial,Helvetica,sans-serif" font-weight="700">9 — 36%</text>
 
-  <rect x="260" y="344" width="870" height="30" rx="8" fill="#222831"/>
-  <rect x="260" y="344" width="313" height="30" rx="8" fill="url(#bar)"/>
-  <text x="695" y="365" text-anchor="middle" fill="#ffffff" font-size="18" font-family="Arial,Helvetica,sans-serif">Level 9 — 36%</text>
+  <text x="705" y="242" text-anchor="middle" fill="#ffffff" font-size="38" font-family="Arial,Helvetica,sans-serif" font-weight="700">C Piscine</text>
+  <text x="705" y="285" text-anchor="middle" fill="#bac3ce" font-size="18" font-family="Arial,Helvetica,sans-serif">1337 • 42 Network</text>
+
+  <rect x="270" y="362" width="870" height="24" rx="8" fill="#262d37"/>
+  <rect x="270" y="362" width="313" height="24" rx="8" fill="url(#bar)"/>
+  <text x="705" y="381" text-anchor="middle" fill="#ffffff" font-size="17" font-family="Arial,Helvetica,sans-serif" font-weight="600">Level 9 — 36%</text>
 </svg>
