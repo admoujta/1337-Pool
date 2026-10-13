@@ -20,18 +20,13 @@
 
 ## 👤 Piscine Profile
 
-<div align="center">
-  <h3>Adam Moujtahid · <code>admoujta</code></h3>
+<p align="center">
+  <img src="./assets/intra-profile.svg" alt="Adam Moujtahid — 1337 Intra Profile" width="100%" />
+</p>
 
-  <table>
-    <tr>
-      <td align="center"><strong>⭐ Evaluation Points</strong><br/><br/><b>5</b></td>
-      <td align="center"><strong>🎓 Cursus</strong><br/><br/><b>C Piscine</b></td>
-      <td align="center"><strong>🏷️ Grade</strong><br/><br/><b>Pisciner</b></td>
-      <td align="center"><strong>📈 Level</strong><br/><br/><b>9 — 36%</b></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <strong>Adam Moujtahid</strong> · <code>admoujta</code>
+</p>
 
 ---
 
@@ -67,6 +62,7 @@ The Piscine is built around practice, autonomy, peer learning, evaluations, debu
 │
 ├── assets/
 │   ├── 1337-piscine-banner.svg
+│   ├── intra-profile.svg
 │   ├── adam-moujtahid.jpg
 │   └── pool-1337.jpg
 │
@@ -188,15 +184,15 @@ This workflow became one of the most valuable habits I developed during the Pisc
 
 ## 🎯 What This Repository Represents
 
-This repository is a record of my progression from basic C syntax to a stronger understanding of:
-
-- memory and pointers;
-- strings and arrays;
-- dynamic allocation;
-- recursion and algorithms;
-- Unix tools and shell workflows;
-- Makefiles and libraries;
-- debugging and code discipline.
+<p align="center">
+  <code>Memory & Pointers</code> ·
+  <code>Strings & Arrays</code> ·
+  <code>Dynamic Allocation</code> ·
+  <code>Recursion & Algorithms</code> ·
+  <code>Unix & Shell</code> ·
+  <code>Makefiles & Libraries</code> ·
+  <code>Debugging Discipline</code>
+</p>
 
 ---
 
