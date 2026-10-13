@@ -18,18 +18,6 @@
 
 ---
 
-## 👤 Piscine Profile
-
-<p align="center">
-  <img src="./assets/intra-profile.svg" alt="Adam Moujtahid — 1337 Intra Profile" width="100%" />
-</p>
-
-<p align="center">
-  <strong>Adam Moujtahid</strong> · <code>admoujta</code>
-</p>
-
----
-
 ## 📖 About
 
 This repository documents my work during the **1337 Piscine**, the intensive selection and learning experience of the **42 Network**.
@@ -62,7 +50,6 @@ The Piscine is built around practice, autonomy, peer learning, evaluations, debu
 │
 ├── assets/
 │   ├── 1337-piscine-banner.svg
-│   ├── intra-profile.svg
 │   ├── adam-moujtahid.jpg
 │   └── pool-1337.jpg
 │
