@@ -2,40 +2,35 @@
   <img src="./assets/1337-piscine-banner.svg" alt="1337 Piscine — 42 Network" width="100%" />
 </p>
 
-<h1 align="center">🏊 1337 Pool — 42 Network</h1>
+<h1 align="center">🏊 1337 Piscine — 42 Network</h1>
 
 <p align="center">
-  <strong>My intensive C Piscine journey at 1337 — learning C, Shell, Unix, Git, algorithms and problem solving through practice.</strong>
+  <strong>My intensive 1337 / 42 Piscine journey through C, Shell, Unix, Git, algorithms, and problem solving.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/admoujta/1337-Pool"><img src="https://img.shields.io/badge/Repository-1337--Pool-181717?style=for-the-badge&logo=github" alt="Repository" /></a>
-  <img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c" alt="C" />
+  <a href="https://github.com/admoujta/1337-Pool"><img src="https://img.shields.io/badge/Repo-1337--Pool-181717?style=for-the-badge&logo=github" alt="Repository" /></a>
+  <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c" alt="C" />
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/School-1337%20%7C%2042-00BABC?style=for-the-badge" alt="1337 / 42" />
+  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/School-1337%20%2F%2042-00BABC?style=for-the-badge" alt="1337 / 42" />
 </p>
 
----
-
-## 👤 Piscine Profile
+<br/>
 
 <div align="center">
+  <h2>👤 Piscine Profile</h2>
+  <p><strong>Adam Moujtahid</strong> · <code>admoujta</code></p>
 
-<table>
-<tr>
-<td align="center"><b>Student</b><br/>Adam Moujtahid<br/><code>admoujta</code></td>
-<td align="center"><b>Wallet</b><br/>0 ₳</td>
-<td align="center"><b>Evaluation points</b><br/>5</td>
-<td align="center"><b>Cursus</b><br/>C Piscine</td>
-<td align="center"><b>Grade</b><br/>Pisciner</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/Level%209-36%25-00BABC?style=for-the-badge" alt="Level 9 - 36%" />
-
+  <table>
+    <tr>
+      <td align="center"><strong>⭐ Evaluation points</strong><br/><br/><b>5</b></td>
+      <td align="center"><strong>🎓 Cursus</strong><br/><br/><b>C Piscine</b></td>
+      <td align="center"><strong>🏷️ Grade</strong><br/><br/><b>Pisciner</b></td>
+      <td align="center"><strong>📈 Level</strong><br/><br/><b>9 — 36%</b></td>
+    </tr>
+  </table>
 </div>
-
-> This section is inspired by my 1337 intranet Piscine profile and keeps the key snapshot of my journey directly inside the repository.
 
 ---
 
@@ -43,9 +38,9 @@
 
 This repository documents the work I completed during my **1337 Piscine**, part of the **42 Network** learning model.
 
-The Piscine is an intensive, practice-driven programming experience focused on building strong fundamentals through daily exercises, debugging, peer learning, evaluations and independent problem solving.
+The Piscine is an intensive, practice-driven programming experience focused on building strong fundamentals through daily exercises, debugging, peer learning, evaluations, and independent problem solving.
 
-> **Core focus:** understand how programs work, write clean C code, master the Unix environment and develop strong algorithmic thinking.
+> **Core focus:** understanding how programs work, writing clean C code, mastering the Unix environment, and developing strong algorithmic thinking.
 
 ---
 
@@ -58,8 +53,6 @@ The Piscine is an intensive, practice-driven programming experience focused on b
 | 🧾 GitHub | [`@admoujta`](https://github.com/admoujta) |
 | 🎓 Cursus | C Piscine |
 | 🏷️ Grade | Pisciner |
-| 📊 Level | 9 — 36% |
-| ⭐ Evaluation points | 5 |
 | 📅 Session | 2026 |
 | 🧠 Main focus | C, Shell, Unix, Git, algorithms, problem solving |
 
@@ -99,6 +92,8 @@ The Piscine is an intensive, practice-driven programming experience focused on b
 
 The first step into the Unix environment.
 
+**Main topics:**
+
 - Unix/Linux commands
 - File and directory manipulation
 - Permissions
@@ -110,6 +105,8 @@ The first step into the Unix environment.
 ### Shell01
 
 A deeper introduction to shell tools and command composition.
+
+**Main topics:**
 
 - Shell scripting
 - `grep`
@@ -141,32 +138,61 @@ A deeper introduction to shell tools and command composition.
 
 ## 🧠 Skills Developed
 
+The Piscine helped me build and reinforce:
+
+- **C programming fundamentals**
+- **Algorithmic thinking**
+- **Problem solving under constraints**
+- **Pointers and memory management**
+- **Dynamic memory allocation**
+- **Recursion**
+- **String manipulation**
+- **Function pointers**
+- **Unix / Linux command line**
+- **Shell scripting**
+- **Git and version control**
+- **Compilation and Makefiles**
+- **Debugging discipline**
+- **Code readability and style rules**
+- **Independent learning and peer evaluation**
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,vscode" alt="Tech Stack" />
 </p>
 
-The Piscine helped me reinforce **C programming, pointers, memory management, recursion, string manipulation, dynamic allocation, function pointers, Unix/Linux, Shell scripting, Git, Makefiles, debugging discipline, code style, peer evaluation and independent learning**.
+<p align="center">
+  <code>C</code> • <code>Bash</code> • <code>Unix/Linux</code> • <code>Git</code> • <code>GitHub</code> • <code>Make</code>
+</p>
 
 ---
 
 ## ⚙️ Compile & Run
 
-Compile a standard exercise with strict flags:
+Most C exercises can be compiled with:
 
 ```bash
 cc -Wall -Wextra -Werror file.c
 ```
 
-Run it:
+Run the generated executable:
 
 ```bash
 ./a.out
 ```
 
-For projects with a `Makefile`:
+For projects that contain a `Makefile`:
 
 ```bash
 make
+```
+
+Useful Makefile commands:
+
+```bash
 make clean
 make fclean
 make re
@@ -178,15 +204,19 @@ make re
 
 The code follows the style constraints used at **42 / 1337**.
 
+To check a file or directory:
+
 ```bash
 norminette
 ```
 
-A valid solution should not only work — it should also respect the coding style and project constraints.
+A valid solution is not only expected to work — it should also respect the required coding style and project constraints.
 
 ---
 
-## 🔍 My Piscine Workflow
+## 🔍 What This Piscine Taught Me
+
+The most valuable part of the Piscine was not memorizing functions. It was learning how to approach a problem systematically:
 
 ```text
 Read the subject
@@ -206,7 +236,22 @@ Debug
 Improve
 ```
 
-The biggest lesson of the Piscine was not memorizing functions. It was learning how to think, test, debug and improve independently.
+That workflow continues to shape the way I approach larger software projects today.
+
+---
+
+## 🎯 Purpose
+
+I keep this repository as a record of my progress during the **1337 Piscine** and as a reference for the core concepts I practiced throughout the experience.
+
+It represents the transition from writing simple programs to thinking more carefully about:
+
+- how memory is used;
+- how strings and arrays work internally;
+- how functions communicate through pointers;
+- how algorithms behave on edge cases;
+- how Unix tools can simplify development;
+- and how disciplined debugging leads to better code.
 
 ---
 
@@ -214,7 +259,7 @@ The biggest lesson of the Piscine was not memorizing functions. It was learning 
 
 This repository is shared for **educational and personal portfolio purposes**.
 
-If you are currently taking part in a **42 / 1337 Piscine**, use repositories like this only as inspiration after making a serious attempt yourself. The real value comes from solving the problem, debugging it and understanding why the final solution works.
+If you are currently taking part in a **42 / 1337 Piscine**, use repositories like this only as inspiration after making a serious attempt yourself. The real value of the Piscine comes from struggling with the problem, debugging it, and understanding why the final solution works.
 
 <p align="center">
   <strong>Learn • Understand • Code • Debug • Repeat</strong>
@@ -225,17 +270,11 @@ If you are currently taking part in a **42 / 1337 Piscine**, use repositories li
 ## 👨‍💻 Author
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/251885828?v=4" width="180" height="180" alt="Adam Moujtahid" />
-</p>
-
-<h3 align="center">Adam Moujtahid</h3>
-
-<p align="center">
-  <strong>1337 / 42 Network — C Piscine</strong><br/>
-  <code>admoujta</code><br/><br/>
-  <a href="https://github.com/admoujta"><img src="https://img.shields.io/badge/GitHub-admoujta-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <strong>Adam Moujtahid</strong><br/>
+  1337 / 42 Network Piscine<br/><br/>
+  <a href="https://github.com/admoujta">GitHub</a>
 </p>
 
 <p align="center">
-  ⭐ Explore the repository to follow my progression throughout the 1337 Piscine.
+  ⭐ If this repository helps you understand my journey, feel free to explore the exercises and projects.
 </p>
