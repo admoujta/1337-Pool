@@ -270,10 +270,6 @@ If you are currently taking part in a **42 / 1337 Piscine**, use repositories li
 
 ## 👨‍💻 Author
 
-<p align="center">
-  <img src="./assets/adam-moujtahid.jpg" alt="Adam Moujtahid" width="600" />
-</p>
-
 <h3 align="center">Adam Moujtahid</h3>
 
 <p align="center">
@@ -284,4 +280,10 @@ If you are currently taking part in a **42 / 1337 Piscine**, use repositories li
 
 <p align="center">
   ⭐ If this repository helps you understand my journey, feel free to explore the exercises and projects.
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/adam-moujtahid.jpg" alt="Adam Moujtahid" width="600" />
 </p>
