@@ -285,5 +285,5 @@ If you are currently taking part in a **42 / 1337 Piscine**, use repositories li
 <br/>
 
 <p align="center">
-  <img src="./assets/adam-moujtahid.jpg" alt="Adam Moujtahid" width="600" />
+  <img src="https://raw.githubusercontent.com/admoujta/1337-Pool/main/assets/adam-moujtahid.jpg" alt="Adam Moujtahid" width="700" />
 </p>
